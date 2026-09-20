@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/DanielBarvenko">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Software Developer</a>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/DanielBarvenko">Programmer</a>, <a href="https://www.linkedin.com/in/daniel-barvenko-568a9b438/">Software Developer</a>
 
 <h2> Software Development Projects:</h2>
 
